@@ -24,7 +24,7 @@ I have a strong interest in leveraging cutting-edge technologies to solve real-w
 
 ### 📫 Let's Connect
 
-[![Dev Portfolio](https://img.shields.io/badge/Dev_Website-4285F4?style=for-the-badge&logo=About.me&logoColor=white)](https://gaurav-wankhede.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=About.me&logoColor=white)](https://gaurav-wankhede.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wankhede-gaurav/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GTechverse16703)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GauravWankhede-TECHVERSE)
