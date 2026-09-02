@@ -1,6 +1,6 @@
 <!-- ========================================================================= -->
 <!-- GAURAV WANKHEDE — HIGH-PERFORMANCE GITHUB PROFILE LANDING PAGE             -->
-<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • 100% RESPONSIVE CODE      -->
+<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • FULL ASYNC RUST STACK    -->
 <!-- ========================================================================= -->
 
 <div align="center">
@@ -68,7 +68,7 @@ impl<'a> Default for Engineer<'a> {
             role: "Founder & AI Systems Architect",
             flagship: "Kavach (Self-Improving Harness)",
             core_stack: &[
-                "Rust 1.95+",
+                "Rust 1.95+ (Tokio/Axum)",
                 "Python 3.13+",
                 "TypeScript 5+",
                 "SurrealDB 3.x",
@@ -85,7 +85,7 @@ impl<'a> Default for Engineer<'a> {
 }
 ```
 
-> **Executive Summary:** Systems engineer and AI founder specializing in **self-healing development harnesses**, **capability-kernel agent runtimes**, **embedded search/database architectures**, **mathematical DSP engines**, and **full-stack enterprise AI platforms** across Rust, TypeScript, and Python.
+> **Executive Summary:** Systems engineer and AI founder specializing in **self-healing development harnesses**, **capability-kernel agent runtimes**, **embedded search/database architectures**, **mathematical DSP engines**, and **full-stack enterprise AI platforms** across Rust (Tokio/Axum), TypeScript, and Python.
 
 ---
 
@@ -101,6 +101,7 @@ impl<'a> Default for Engineer<'a> {
       <p>Self-improving engineering harness for autonomous coding agents. Enforces fail-closed lifecycle gates, maintains persistent cross-session memory in SurrealDB 3.x, and compiles a dynamic mistake-learning knowledge graph.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust_1.95+-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white" />
         <img src="https://img.shields.io/badge/SurrealDB_3.x-FF00A0?style=flat-square&logo=surrealdb&logoColor=white" />
         <img src="https://img.shields.io/badge/Agent_Gates-6366F1?style=flat-square&logo=auth0&logoColor=white" />
       </p>
@@ -113,6 +114,7 @@ impl<'a> Default for Engineer<'a> {
       <p>Capability-kernel-secured agent runtime in pure Rust. Houses <b>AegisGraph</b> single-file property graph with HNSW vector search, Tantivy BM25 lexical ranking, and an Object Capability (OCap) security barrier for local SLMs.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tokio_Async-000000?style=flat-square&logo=tokio&logoColor=white" />
         <img src="https://img.shields.io/badge/HNSW_Vector-0284C7?style=flat-square" />
         <img src="https://img.shields.io/badge/OCap_Security-10B981?style=flat-square" />
       </p>
@@ -269,7 +271,7 @@ impl<'a> Default for Engineer<'a> {
 | **Generative AI, Agents & Vision** | <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&theme=dark" alt="AI Stack" /></a> |
 | **Data Engines & High-Perf Analytics** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,graphql&theme=dark" alt="Databases" /></a> |
 | **Frontend & UI Platforms** | <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,svg&theme=dark" alt="Frontend" /></a> |
-| **Backend & Microservices** | <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend" /></a> |
+| **Backend & Microservices** | <a href="#"><img src="https://skillicons.dev/icons?i=rust,fastapi,nodejs,express&theme=dark" alt="Backend" /></a> <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white" valign="middle" /> <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" valign="middle" /> |
 | **Cloud, DevOps & Tooling** | <a href="#"><img src="https://skillicons.dev/icons?i=docker,cloudflare,gcp,linux,git,githubactions,postman,neovim,vscode&theme=dark" alt="Infra & Tools" /></a> |
 
 </div>
@@ -278,7 +280,7 @@ impl<'a> Default for Engineer<'a> {
 <summary><b>[+] Expand Deep Architecture Capabilities & Specialized Toolbelt</b></summary>
 <br/>
 
-- **Systems & Core Engineering:** Rust 1.95+ (Tokio, Axum, Nom, Polars, DataFusion, Tantivy BM25, Linfa, Burn, Criterion, Proptest, Nextest), Memory Safety, Zero-Cost Abstractions, SIMD & Vectorization, WebAssembly.
+- **Systems & Backend Frameworks:** Rust 1.95+ (Tokio async runtime, Axum, Nom, Polars, DataFusion, Tantivy BM25, Linfa, Burn, Criterion, Proptest, Nextest), Memory Safety, Zero-Cost Abstractions, SIMD & Vectorization, WebAssembly.
 - **AI & Autonomous Agents:** Capability-Kernel Runtimes (OCap), Knowledge Graph memory banks (SurrealDB 3.x, Turso libSQL), HNSW vector search, LangChain, LlamaIndex, Ollama / Local SLMs, Google Gemini 2.0 / Flash, Claude 3.7 SDK, n8n orchestration.
 - **Deep Learning & Computer Vision:** PyTorch 2.x, TensorFlow 2.x, Keras, OpenCV, ResNet, InceptionResNetV2, MobileNetV2, spaCy, NLTK, HuggingFace Transformers.
 - **Data Engineering & BI:** Polars 1.x, Apache DataFusion, Pandas 2.x, NumPy, SciPy, scikit-learn, XGBoost, LightGBM, Power BI, MS SQL Server, Excel automation, Amazon web scraping pipelines.
