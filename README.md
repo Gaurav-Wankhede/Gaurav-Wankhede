@@ -1,6 +1,6 @@
 <!-- ========================================================================= -->
 <!-- GAURAV WANKHEDE — HIGH-PERFORMANCE GITHUB PROFILE LANDING PAGE             -->
-<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • NO HORIZONTAL SCROLL      -->
+<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • 100% RESPONSIVE CODE      -->
 <!-- ========================================================================= -->
 
 <div align="center">
@@ -52,13 +52,36 @@
 
 ```rust
 // RUNTIME PROFILE: GAURAV WANKHEDE
-pub struct Engineer {
-    pub name: &'static str,                  // "Gaurav Wankhede"
-    pub role: &'static str,                  // "Founder & AI Systems Architect"
-    pub flagship_system: &'static str,        // "Kavach (Self-Improving Agent Harness)"
-    pub core_stack: &'static [&'static str],  // &["Rust 1.95+", "Python 3.13+", "TypeScript 5+", "SurrealDB 3.x", "Polars", "PyTorch 2.x"]
-    pub ecosystem: &'static [&'static str],   // &["TECHVERSE", "Bookverse"]
-    pub mission: &'static str,               // "Bridging Deterministic Systems, Agentic AI & Public Governance"
+pub struct Engineer<'a> {
+    pub name: &'a str,
+    pub role: &'a str,
+    pub flagship: &'a str,
+    pub core_stack: &'a [&'a str],
+    pub ecosystem: &'a [&'a str],
+    pub focus: &'a str,
+}
+
+impl<'a> Default for Engineer<'a> {
+    fn default() -> Self {
+        Self {
+            name: "Gaurav Wankhede",
+            role: "Founder & AI Systems Architect",
+            flagship: "Kavach (Self-Improving Harness)",
+            core_stack: &[
+                "Rust 1.95+",
+                "Python 3.13+",
+                "TypeScript 5+",
+                "SurrealDB 3.x",
+                "Polars 1.x",
+                "PyTorch 2.x",
+            ],
+            ecosystem: &[
+                "TECHVERSE",
+                "Bookverse",
+            ],
+            focus: "Autonomous AI & Deterministic Systems",
+        }
+    }
 }
 ```
 
