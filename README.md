@@ -1,6 +1,6 @@
 <!-- ========================================================================= -->
 <!-- GAURAV WANKHEDE — HIGH-PERFORMANCE GITHUB PROFILE LANDING PAGE             -->
-<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • OFFICIAL HREF LINKS       -->
+<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • UNIFORM ICON CONTAINERS   -->
 <!-- ========================================================================= -->
 
 <div align="center">
@@ -95,7 +95,7 @@ impl<'a> Default for Engineer<'a> {
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/kavach">Kavach AI Harness</a></b>
       </h4>
       <p>Self-improving engineering harness for autonomous coding agents. Enforces fail-closed lifecycle gates, maintains persistent cross-session memory in SurrealDB 3.x, and compiles a dynamic mistake-learning knowledge graph.</p>
@@ -108,7 +108,7 @@ impl<'a> Default for Engineer<'a> {
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/laksh-cli">LakshCLI</a></b>
       </h4>
       <p>Capability-kernel-secured agent runtime in pure Rust. Houses <b>AegisGraph</b> single-file property graph with HNSW vector search, Tantivy BM25 lexical ranking, and an Object Capability (OCap) security barrier for local SLMs.</p>
@@ -123,7 +123,7 @@ impl<'a> Default for Engineer<'a> {
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" width="18" height="18" valign="middle"/></a>
+        <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/audio-engineering">3D Spatial Audio & Ray-Tracing</a></b>
       </h4>
       <p>Procedural 10-point Dolby Atmos 7.1.4 3D spatial DSP engine written in raw trigonometric mathematics synced to real-time 2.5D SVG Vector ray-tracing. Zero plugins or pre-recorded assets.</p>
@@ -135,7 +135,7 @@ impl<'a> Default for Engineer<'a> {
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/tubeforge">TubeForge Engine</a></b>
       </h4>
       <p>Single-binary YouTube SEO/GEO growth engine written in Rust. Ingests metadata keyless, persists into an embedded crash-safe storage engine (<code>tfdb</code>), and executes BM25 topic opportunity discovery.</p>
@@ -149,7 +149,7 @@ impl<'a> Default for Engineer<'a> {
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/rustflow">RustFlow Analytics</a></b>
       </h4>
       <p>Local-first tabular analytics and ML workbench combining Polars vector operations, Apache DataFusion SQL execution, and Linfa/Burn classical machine learning with zero cloud lock-in.</p>
@@ -161,7 +161,7 @@ impl<'a> Default for Engineer<'a> {
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/webfind">WebFind Search Engine</a></b>
       </h4>
       <p>Self-hosted web indexing and research crawler built in Rust for private SLMs/LLMs. Crawls, parses, ranks, and maps live link-graphs into an embedded Turso edge store without cloud API fees.</p>
@@ -182,7 +182,7 @@ impl<'a> Default for Engineer<'a> {
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/finsolve-technologies-rag-rbac-assistant">FinSolve RAG-RBAC Assistant</a></b>
       </h4>
       <p>Multi-tenant enterprise Retrieval-Augmented Generation assistant with granular Role-Based Access Control, enabling cross-departmental financial intelligence with verified data isolation.</p>
@@ -194,7 +194,7 @@ impl<'a> Default for Engineer<'a> {
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="18" height="18" valign="middle"/></a>
+        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/ai-content-generator">AI Content Generator SaaS</a></b>
       </h4>
       <p>Production SaaS platform built with Next.js 15, React 19, Tailwind CSS v4, Drizzle ORM, and Google Gemini 2.0 AI, featuring Clerk authentication and credit-based usage tracking.</p>
@@ -208,7 +208,7 @@ impl<'a> Default for Engineer<'a> {
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="18" height="18" valign="middle"/></a>
+        <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/accident-detection-and-alerting-system">Accident Detection & Edge CV</a></b>
       </h4>
       <p>Intelligent edge collision detection combining IoT sensor telemetry with deep learning vision models (ResNet, InceptionResNetV2, MobileNetV2) for rapid emergency response.</p>
@@ -220,7 +220,7 @@ impl<'a> Default for Engineer<'a> {
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://n8n.io/"><img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" valign="middle" height="16"/></a>
+        <a href="https://n8n.io/"><img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/automated-educational-content-creation-and-management-system-for-codebasics">Codebasics Content Automation</a></b>
       </h4>
       <p>Production multi-agent n8n workflow system automating autonomous research, drafting, multi-dimensional quality auditing, and scheduled publishing for Discord developer ecosystems.</p>
@@ -234,7 +234,7 @@ impl<'a> Default for Engineer<'a> {
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="18" height="18" valign="middle"/></a>
+        <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/data-insights">Data Insights Platform</a></b>
       </h4>
       <p>Full-stack data quality platform with Next.js frontend and FastAPI backend performing automated data auditing, missing value detection, and statistical distribution modeling.</p>
@@ -246,7 +246,7 @@ impl<'a> Default for Engineer<'a> {
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="18" height="18" valign="middle"/></a>
+        <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.gauravwankhede.com/projects/heroic-flow">HeroicFlow Project Engine</a></b>
       </h4>
       <p>AI-orchestrated project management and task routing platform combining Next.js 15, Node.js, MongoDB, and streaming Google Gemini 2.0 AI reasoning.</p>
@@ -265,14 +265,14 @@ impl<'a> Default for Engineer<'a> {
 
 <div align="center">
 
-| Domain | Technologies & Systems (Click for Official Documentation) |
+| Domain | Technologies & Systems (Uniform 40x40 Containers • Click for Docs) |
 | :--- | :--- |
-| **Core Systems & Languages** | <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a> <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a> |
-| **Generative AI, Agents & Vision** | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a> <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a> <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" /></a> <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a> |
-| **Data Engines & High-Perf Analytics** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a> <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a> <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a> <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a> <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a> |
-| **Frontend & UI Platforms** | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/SVG"><img src="https://skillicons.dev/icons?i=svg" alt="SVG" /></a> |
-| **Backend & Microservices** | <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" /></a> <a href="https://tokio.rs/"><img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white" valign="middle" /></a> <a href="https://github.com/tokio-rs/axum"><img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" valign="middle" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a> |
-| **Cloud, DevOps & Tooling** | <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a> <a href="https://workers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a> <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" /></a> <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a> <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> |
+| **Core Systems & Languages** | <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /></a> <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /></a> <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" width="40" height="40" alt="WebAssembly" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" /></a> |
+| **Generative AI, Agents & Vision** | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a> <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a> <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40" alt="Scikit-Learn" /></a> <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" /></a> |
+| **Data Engines & High-Perf Analytics** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /></a> <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /></a> <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a> <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /></a> <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /></a> |
+| **Frontend & UI Platforms** | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/SVG"><img src="https://skillicons.dev/icons?i=svg" width="40" height="40" alt="SVG" /></a> |
+| **Backend & Microservices** | <a href="https://tokio.rs/"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Tokio / Rust" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a> |
+| **Cloud, DevOps & Tooling** | <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a> <a href="https://workers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="Cloudflare" /></a> <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="Google Cloud" /></a> <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a> <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" /></a> <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /></a> <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a> |
 
 </div>
 
@@ -334,14 +334,14 @@ impl<'a> Default for Engineer<'a> {
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.youtube.com/@GauravWankhede-TECHVERSE"><img src="https://skillicons.dev/icons?i=youtube" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.youtube.com/@GauravWankhede-TECHVERSE"><img src="https://skillicons.dev/icons?i=youtube" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.youtube.com/@GauravWankhede-TECHVERSE">TECHVERSE (YouTube)</a></b>
       </h4>
       <p>Engineering deep dives into high-performance Rust, custom network protocols (GNAP, Tokio Topcoat), agentic harness architectures, and modern systems programming.</p>
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <a href="https://www.youtube.com/@BookVerse_channel"><img src="https://skillicons.dev/icons?i=youtube" width="18" height="18" valign="middle"/></a>
+        <a href="https://www.youtube.com/@BookVerse_channel"><img src="https://skillicons.dev/icons?i=youtube" width="20" height="20" valign="middle"/></a>
         <b><a href="https://www.youtube.com/@BookVerse_channel">BOOKVERSE (YouTube)</a></b>
       </h4>
       <p>Curated repository of visual mental models, cognitive defense frameworks, and decision trees extracted from foundational engineering and systems literature.</p>
