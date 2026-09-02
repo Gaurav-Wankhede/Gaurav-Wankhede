@@ -1,24 +1,17 @@
 <!-- ========================================================================= -->
 <!-- GAURAV WANKHEDE — HIGH-PERFORMANCE GITHUB PROFILE LANDING PAGE             -->
-<!-- CLAUDE CODE STYLE ASCII • ZERO EMOJIS • GITHUB COMPATIBLE • LIVE TELEMETRY  -->
+<!-- CLAUDE CODE STYLE ASCII (ART 1) • ZERO EMOJIS • DYNAMIC SNAKE ANIMATION     -->
 <!-- ========================================================================= -->
 
 <div align="center">
 
 ```text
-   ██████╗   █████╗  ██╗   ██╗ ██████╗   █████╗  ██╗   ██╗
-  ██╔════╝  ██╔══██╗ ██║   ██║ ██╔══██╗ ██╔══██╗ ██║   ██║
-  ██║  ███╗ ███████║ ██║   ██║ ██████╔╝ ███████║ ██║   ██║
-  ██║   ██║ ██╔══██║ ██║   ██║ ██╔══██╗ ██╔══██║ ██║   ██║
-  ╚██████╔╝ ██║  ██║ ╚██████╔╝ ██║  ██║ ██║  ██║ ╚██████╔╝
-   ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝ 
-
-   ██╗    ██╗  █████╗  ███╗   ██╗ ██╗  ██╗ ██╗  ██╗ ███████╗ ██████╗  ███████╗
-   ██║    ██║ ██╔══██╗ ████╗  ██║ ██║ ██╔╝ ██║  ██║ ██╔════╝ ██╔══██╗ ██╔════╝
-   ██║ █╗ ██║ ███████║ ██╔██╗ ██║ █████╔╝  ███████║ █████╗   ██║  ██║ █████╗  
-   ██║███╗██║ ██╔══██║ ██║╚██╗██║ ██╔═██╗  ██╔══██║ ██╔══╝   ██║  ██║ ██╔══╝  
-   ╚███╔███╔╝ ██║  ██║ ██║ ╚████║ ██║  ██╗ ██║  ██║ ███████╗ ██████╔╝ ███████╗
-    ╚══╝╚══╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═════╝  ╚══════╝
+ ██████╗   █████╗  ██╗   ██╗ ██████╗   █████╗  ██╗   ██╗    ██╗    ██╗  █████╗  ███╗   ██╗ ██╗  ██╗ ██╗  ██╗ ███████╗ ██████╗  ███████╗
+██╔════╝  ██╔══██╗ ██║   ██║ ██╔══██╗ ██╔══██╗ ██║   ██║    ██║    ██║ ██╔══██╗ ████╗  ██║ ██║ ██╔╝ ██║  ██║ ██╔════╝ ██╔══██╗ ██╔════╝
+██║  ███╗ ███████║ ██║   ██║ ██████╔╝ ███████║ ██║   ██║    ██║ █╗ ██║ ███████║ ██╔██╗ ██║ █████╔╝  ███████║ █████╗   ██║  ██║ █████╗  
+██║   ██║ ██╔══██║ ██║   ██║ ██╔══██╗ ██╔══██║ ██║   ██║    ██║███╗██║ ██╔══██║ ██║╚██╗██║ ██╔═██╗  ██╔══██║ ██╔══╝   ██║  ██║ ██╔══╝  
+╚██████╔╝ ██║  ██║ ╚██████╔╝ ██║  ██║ ██║  ██║ ╚██████╔╝    ╚███╔███╔╝ ██║  ██║ ██║ ╚████║ ██║  ██╗ ██║  ██║ ███████╗ ██████╔╝ ███████╗
+ ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝      ╚══╝╚══╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═════╝  ╚══════╝
 ```
 
 <!-- LIVE PROFILE VIEWS COUNTER -->
@@ -36,7 +29,8 @@
 <!-- TOP NAVIGATION & CREDENTIALS BADGES (SVG ONLY, ZERO EMOJIS) -->
 <p align="center">
   <a href="https://www.gauravwankhede.com/"><img src="https://img.shields.io/badge/PORTFOLIO-gauravwankhede.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=020617" alt="Portfolio Website" /></a>
-  <a href="https://www.youtube.com/@GauravWankhede-TECHVERSE"><img src="https://img.shields.io/badge/YOUTUBE-TECHVERSE-0f172a?style=for-the-badge&logo=youtube&logoColor=ef4444&labelColor=020617" alt="YouTube Channel" /></a>
+  <a href="https://www.youtube.com/@GauravWankhede-TECHVERSE"><img src="https://img.shields.io/badge/YOUTUBE-TECHVERSE-0f172a?style=for-the-badge&logo=youtube&logoColor=ef4444&labelColor=020617" alt="TECHVERSE Channel" /></a>
+  <a href="https://www.youtube.com/@BookVerse_channel"><img src="https://img.shields.io/badge/YOUTUBE-BOOKVERSE-0f172a?style=for-the-badge&logo=youtube&logoColor=f59e0b&labelColor=020617" alt="BOOKVERSE Channel" /></a>
   <a href="https://www.linkedin.com/in/wankhede-gaurav/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&labelColor=020617" alt="LinkedIn" /></a>
   <a href="https://x.com/GTechverse16703"><img src="https://img.shields.io/badge/X-Follow-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617" alt="Twitter X" /></a>
   <a href="https://discord.gg/fD94w8f"><img src="https://img.shields.io/badge/DISCORD-Community-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=020617" alt="Discord" /></a>
@@ -56,7 +50,7 @@ pub struct Engineer {
     pub role: &'static str,                  // "Founder & AI Systems Architect"
     pub flagship_system: &'static str,        // "Kavach (Self-Improving Agent Harness)"
     pub core_stack: &'static [&'static str],  // &["Rust 1.95+", "Python 3.13+", "TypeScript 5+", "SurrealDB 3.x", "Polars", "PyTorch 2.x"]
-    pub ecosystem: &'static str,             // "TECHVERSE & Bookverse"
+    pub ecosystem: &'static [&'static str],   // &["TECHVERSE", "Bookverse"]
     pub mission: &'static str,               // "Bridging Deterministic Systems, Agentic AI & Public Governance"
 }
 ```
@@ -294,9 +288,9 @@ pub struct Engineer {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav-Wankhede/Gaurav-Wankhede/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav-Wankhede/Gaurav-Wankhede/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Gaurav-Wankhede/Gaurav-Wankhede/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Digitl-Alchemyst/Digitl-Alchemyst/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Digitl-Alchemyst/Digitl-Alchemyst/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Digitl-Alchemyst/Digitl-Alchemyst/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
   </picture>
 </div>
 
@@ -315,8 +309,8 @@ pub struct Engineer {
     </td>
     <td width="50%" valign="top">
       <h4 align="left">
-        <img src="https://skillicons.dev/icons?i=github" width="18" height="18" valign="middle"/>
-        <b><a href="https://www.gauravwankhede.com/projects/bookverse">Bookverse Knowledge Base</a></b>
+        <img src="https://skillicons.dev/icons?i=youtube" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.youtube.com/@BookVerse_channel">BOOKVERSE (YouTube)</a></b>
       </h4>
       <p>Curated repository of visual mental models, cognitive defense frameworks, and decision trees extracted from foundational engineering and systems literature.</p>
     </td>
