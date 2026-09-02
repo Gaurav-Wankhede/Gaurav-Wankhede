@@ -1,241 +1,343 @@
-# 🌟 Welcome to my Github! 🚀
+<!-- ========================================================================= -->
+<!-- GAURAV WANKHEDE — HIGH-PERFORMANCE GITHUB PROFILE LANDING PAGE             -->
+<!-- CLAUDE CODE STYLE ASCII • ZERO EMOJIS • GITHUB COMPATIBLE • LIVE TELEMETRY  -->
+<!-- ========================================================================= -->
+
 <div align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Gaurav-Wankhede&label=Profile%20views&color=0e75b6&style=flat" alt="DigitlAlchemyst" />
+
+```text
+   ██████╗   █████╗  ██╗   ██╗ ██████╗   █████╗  ██╗   ██╗
+  ██╔════╝  ██╔══██╗ ██║   ██║ ██╔══██╗ ██╔══██╗ ██║   ██║
+  ██║  ███╗ ███████║ ██║   ██║ ██████╔╝ ███████║ ██║   ██║
+  ██║   ██║ ██╔══██║ ██║   ██║ ██╔══██╗ ██╔══██║ ██║   ██║
+  ╚██████╔╝ ██║  ██║ ╚██████╔╝ ██║  ██║ ██║  ██║ ╚██████╔╝
+   ╚═════╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝ 
+
+   ██╗    ██╗  █████╗  ███╗   ██╗ ██╗  ██╗ ██╗  ██╗ ███████╗ ██████╗  ███████╗
+   ██║    ██║ ██╔══██╗ ████╗  ██║ ██║ ██╔╝ ██║  ██║ ██╔════╝ ██╔══██╗ ██╔════╝
+   ██║ █╗ ██║ ███████║ ██╔██╗ ██║ █████╔╝  ███████║ █████╗   ██║  ██║ █████╗  
+   ██║███╗██║ ██╔══██║ ██║╚██╗██║ ██╔═██╗  ██╔══██║ ██╔══╝   ██║  ██║ ██╔══╝  
+   ╚███╔███╔╝ ██║  ██║ ██║ ╚████║ ██║  ██╗ ██║  ██║ ███████╗ ██████╔╝ ███████╗
+    ╚══╝╚══╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═════╝  ╚══════╝
+```
+
+<!-- LIVE PROFILE VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav-Wankhede&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- DYNAMIC TYPING ANIMATION SVG -->
+<a href="https://www.gauravwankhede.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Architecting+Self-Improving+AI+Coding+Harnesses;Building+High-Performance+Local-First+Engines+in+Rust;Developing+Capability-Secured+Agent+Runtimes;Procedural+3D+Spatial+Audio+%26+Mathematical+DSP;Full-Stack+Enterprise+AI,+RAG-RBAC+%26+Data+Engines;Bridging+Next-Gen+Technology+and+Public+Governance" alt="Dynamic Role Banner" />
+</a>
+
+<br/>
+
+<!-- TOP NAVIGATION & CREDENTIALS BADGES (SVG ONLY, ZERO EMOJIS) -->
+<p align="center">
+  <a href="https://www.gauravwankhede.com/"><img src="https://img.shields.io/badge/PORTFOLIO-gauravwankhede.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=020617" alt="Portfolio Website" /></a>
+  <a href="https://www.youtube.com/@GauravWankhede-TECHVERSE"><img src="https://img.shields.io/badge/YOUTUBE-TECHVERSE-0f172a?style=for-the-badge&logo=youtube&logoColor=ef4444&labelColor=020617" alt="YouTube Channel" /></a>
+  <a href="https://www.linkedin.com/in/wankhede-gaurav/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&labelColor=020617" alt="LinkedIn" /></a>
+  <a href="https://x.com/GTechverse16703"><img src="https://img.shields.io/badge/X-Follow-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617" alt="Twitter X" /></a>
+  <a href="https://discord.gg/fD94w8f"><img src="https://img.shields.io/badge/DISCORD-Community-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=020617" alt="Discord" /></a>
+  <a href="https://www.gauravwankhede.com/contact"><img src="https://img.shields.io/badge/CONTACT-Get_In_Touch-0f172a?style=for-the-badge&logo=mailgun&logoColor=f43f5e&labelColor=020617" alt="Contact" /></a>
+</p>
+
 </div>
-<br />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7¢er=true&vCenter=true&width=600&lines=Welcome,+I+am+Gaurav+Wankhede;TECH+VERSE+YOUTUBER;I+am+a+self+taught+Full+Stack+AI+Solution+Architect)
+---
 
-> 💻 Full-stack AI Developer | 🚀 Open Source Enthusiast | 🌱 Lifelong Learner
+### [//] SYSTEM ARCHITECTURE & EXECUTIVE BRIEF
 
-A passionate Generative AI Engineer, Full-Stack Developer, and Data Science enthusiast with a focus on creating innovative, data-driven solutions and web applications.
+```rust
+// RUNTIME PROFILE: GAURAV WANKHEDE
+pub struct Engineer {
+    pub name: &'static str,                  // "Gaurav Wankhede"
+    pub role: &'static str,                  // "Founder & AI Systems Architect"
+    pub flagship_system: &'static str,        // "Kavach (Self-Improving Agent Harness)"
+    pub core_stack: &'static [&'static str],  // &["Rust 1.95+", "Python 3.13+", "TypeScript 5+", "SurrealDB 3.x", "Polars", "PyTorch 2.x"]
+    pub ecosystem: &'static str,             // "TECHVERSE & Bookverse"
+    pub mission: &'static str,               // "Bridging Deterministic Systems, Agentic AI & Public Governance"
+}
+```
 
-## About Me
+> **Executive Summary:** Systems engineer and AI founder specializing in **self-healing development harnesses**, **capability-kernel agent runtimes**, **embedded search/database architectures**, **mathematical DSP engines**, and **full-stack enterprise AI platforms** across Rust, TypeScript, and Python.
 
-I have a strong interest in leveraging cutting-edge technologies to solve real-world problems. My expertise spans multiple areas, including:
+---
 
-*   **Generative AI:** Developing models and applications utilizing the power of generative AI.
-*   **Full-Stack Development:** Building robust and scalable web applications from front-end to back-end.
-*   **Data Science:** Expertise in data analysis, machine learning, deep learning, and computer vision.
-*   **Automation:** Automating tasks and processes to improve efficiency.
-*   **Web Scraping:** Collecting data from websites for analysis and insights.
-
-💙 If you like my projects, Give them a ⭐ and Share them with friends!
-
-### 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=About.me&logoColor=white)](https://www.gauravwankhede.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wankhede-gaurav/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GTechverse16703)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GauravWankhede-TECHVERSE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gaurav_wankhede_/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/heroic8265)
-
-
-[![Discord](https://img.shields.io/discord/1110703957640220777?color=purple&label=discord&logo=discord&style=plastic)](https://discord.gg/fD94w8f)
+### [//] FLAGSHIP SYSTEMS & CORE RUNTIMES
 
 <table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Skills</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Languages -->
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      </td>
-    </tr>
-    <!-- Frontend Frameworks/Libraries -->
-    <tr>
-      <td><strong>Frontend Frameworks/Libraries</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-        <img src="https://img.shields.io/badge/-Gradio-2B2B2B?style=flat-square&logo=gradio&logoColor=white" alt="Gradio">
-      </td>
-    </tr>
-    <!-- Backend Frameworks -->
-    <tr>
-      <td><strong>Backend Frameworks</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/-n8n-1F8BFC?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-      </td>
-    </tr>
-    <!-- State Management -->
-    <tr>
-      <td><strong>State Management</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
-        <img src="https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=zustand&logoColor=white" alt="Zustand">
-        <img src="https://img.shields.io/badge/-Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Context API">
-      </td>
-    </tr>
-    <!-- CSS Frameworks/Preprocessors -->
-    <tr>
-      <td><strong>CSS Frameworks/Preprocessors</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-ShadCN-000000?style=flat-square&logo=shadcn&logoColor=white" alt="ShadCN">
-        <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-      </td>
-    </tr>
-    <!-- Databases -->
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-        <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
-        <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
-        <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-        <img src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore">
-      </td>
-    </tr>
-    <!-- Cloud Platforms -->
-    <tr>
-      <td><strong>Cloud Platforms</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud">
-        <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-        <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-      </td>
-    </tr>
-    <!-- DevOps Tools -->
-    <tr>
-      <td><strong>DevOps Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
-        <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-        <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint">
-      </td>
-    </tr>
-    <!-- IDEs/Tools -->
-    <tr>
-      <td><strong>IDEs/Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=cursor-ide&logoColor=white" alt="Cursor IDE">
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-      </td>
-    </tr>
-    <!-- Mobile Development -->
-    <tr>
-      <td><strong>Mobile Development</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native">
-        <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-      </td>
-    </tr>
-   <tr>
-  <td><strong>AI Frameworks & Open Source Models</strong></td>
-  <td>
-    <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone">
-    <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-    <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-    <img src="https://img.shields.io/badge/-Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic">
-    <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini">
-    <img src="https://img.shields.io/badge/-HuggingFace-2D2D2D?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-    <img src="https://img.shields.io/badge/-LLaMA-FF9900?style=flat-square&logo=llama&logoColor=white" alt="LLaMA">
-  </td>
-</tr>
-    <!-- Data Science Frameworks -->
-    <tr>
-      <td><strong>Data Science Frameworks</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-        <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
-      </td>
-    </tr>
-    <!-- Machine Learning Frameworks -->
-    <tr>
-      <td><strong>Machine Learning Frameworks</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-        <img src="https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost">
-        <img src="https://img.shields.io/badge/-LightGBM-32CD32?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM">
-      </td>
-    </tr>
-    <!-- Deep Learning Frameworks -->
-    <tr>
-      <td><strong>Deep Learning Frameworks</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-        <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
-      </td>
-    </tr>
-    <!-- NLP -->
-    <tr>
-      <td><strong>NLP</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-spaCy-2C2D72?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
-        <img src="https://img.shields.io/badge/-NLTK-2C7D9D?style=flat-square&logo=nltk&logoColor=white" alt="NLTK">
-        <img src="https://img.shields.io/badge/-HuggingFace-2D2D2D?style=flat-square&logo=huggingface&logoColor=white" alt="HuggingFace">
-      </td>
-    </tr>
-    <!-- Data Visualization -->
-    <tr>
-      <td><strong>Data Visualization</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=white" alt="PowerBI">
-        <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
-        <img src="https://img.shields.io/badge/-PowerPoint-D24726?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/kavach">Kavach AI Harness</a></b>
+      </h4>
+      <p>Self-improving engineering harness for autonomous coding agents. Enforces fail-closed lifecycle gates, maintains persistent cross-session memory in SurrealDB 3.x, and compiles a dynamic mistake-learning knowledge graph.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust_1.95+-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/SurrealDB_3.x-FF00A0?style=flat-square&logo=surrealdb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agent_Gates-6366F1?style=flat-square&logo=auth0&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/laksh-cli">LakshCLI</a></b>
+      </h4>
+      <p>Capability-kernel-secured agent runtime in pure Rust. Houses <b>AegisGraph</b> single-file property graph with HNSW vector search, Tantivy BM25 lexical ranking, and an Object Capability (OCap) security barrier for local SLMs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/HNSW_Vector-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/OCap_Security-10B981?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=wasm" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/audio-engineering">3D Spatial Audio & Ray-Tracing</a></b>
+      </h4>
+      <p>Procedural 10-point Dolby Atmos 7.1.4 3D spatial DSP engine written in raw trigonometric mathematics synced to real-time 2.5D SVG Vector ray-tracing. Zero plugins or pre-recorded assets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/DSP_Math-000000?style=flat-square&logo=webassembly&logoColor=654FF0" />
+        <img src="https://img.shields.io/badge/Dolby_Atmos_7.1.4-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/SVG_Ray_Tracing-EC4899?style=flat-square&logo=svg&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/tubeforge">TubeForge Engine</a></b>
+      </h4>
+      <p>Single-binary YouTube SEO/GEO growth engine written in Rust. Ingests metadata keyless, persists into an embedded crash-safe storage engine (<code>tfdb</code>), and executes BM25 topic opportunity discovery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Embedded_DB-F59E0B?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/BM25_Ranking-8B5CF6?style=flat-square&logo=apache&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/rustflow">RustFlow Analytics</a></b>
+      </h4>
+      <p>Local-first tabular analytics and ML workbench combining Polars vector operations, Apache DataFusion SQL execution, and Linfa/Burn classical machine learning with zero cloud lock-in.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Polars_1.x-CD792C?style=flat-square&logo=polars&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache_DataFusion-0284C7?style=flat-square&logo=apache&logoColor=white" />
+        <img src="https://img.shields.io/badge/Burn_ML-10B981?style=flat-square&logo=rust&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=rust" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/webfind">WebFind Search Engine</a></b>
+      </h4>
+      <p>Self-hosted web indexing and research crawler built in Rust for private SLMs/LLMs. Crawls, parses, ranks, and maps live link-graphs into an embedded Turso edge store without cloud API fees.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Turso_libSQL-00E599?style=flat-square&logo=turso&logoColor=white" />
+        <img src="https://img.shields.io/badge/Edge_Crawler-3B82F6?style=flat-square&logo=cloudflare&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
+---
 
+### [//] ENTERPRISE AI, APPLIED RAG & INTELLIGENT APPLICATIONS
 
-## 📊 My GitHub Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=py" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/finsolve-technologies-rag-rbac-assistant">FinSolve RAG-RBAC Assistant</a></b>
+      </h4>
+      <p>Multi-tenant enterprise Retrieval-Augmented Generation assistant with granular Role-Based Access Control, enabling cross-departmental financial intelligence with verified data isolation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Enterprise_RAG-4F46E5?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/RBAC_Auth-10B981?style=flat-square&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/ai-content-generator">AI Content Generator SaaS</a></b>
+      </h4>
+      <p>Production SaaS platform built with Next.js 15, React 19, Tailwind CSS v4, Drizzle ORM, and Google Gemini 2.0 AI, featuring Clerk authentication and credit-based usage tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+        <img src="https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/accident-detection-and-alerting-system">Accident Detection & Edge CV</a></b>
+      </h4>
+      <p>Intelligent edge collision detection combining IoT sensor telemetry with deep learning vision models (ResNet, InceptionResNetV2, MobileNetV2) for rapid emergency response.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch_2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT_Telemetry-059669?style=flat-square&logo=raspberrypi&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" valign="middle" height="16"/>
+        <b><a href="https://www.gauravwankhede.com/projects/automated-educational-content-creation-and-management-system-for-codebasics">Codebasics Content Automation</a></b>
+      </h4>
+      <p>Production multi-agent n8n workflow system automating autonomous research, drafting, multi-dimensional quality auditing, and scheduled publishing for Discord developer ecosystems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n_Workflow-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agent_Eval-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/data-insights">Data Insights Platform</a></b>
+      </h4>
+      <p>Full-stack data quality platform with Next.js frontend and FastAPI backend performing automated data auditing, missing value detection, and statistical distribution modeling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Statistical_Audit-0284C7?style=flat-square&logo=scipy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=react" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/heroic-flow">HeroicFlow Project Engine</a></b>
+      </h4>
+      <p>AI-orchestrated project management and task routing platform combining Next.js 15, Node.js, MongoDB, and streaming Google Gemini 2.0 AI reasoning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ &nbsp;GitHub Analytics
+---
 
-<div style="display: flex; flex-direction: column;">
-<div>
+### [//] TECHNICAL STACK & SPECIALIZATION MATRIX
+
+<div align="center">
+
+| Domain | Technologies & Systems (Latest Versions) |
+| :--- | :--- |
+| **Core Systems & Languages** | <a href="#"><img src="https://skillicons.dev/icons?i=rust,py,ts,js,cpp,c,wasm,bash&theme=dark" alt="Core Languages" /></a> |
+| **Generative AI, Agents & Vision** | <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&theme=dark" alt="AI Stack" /></a> |
+| **Data Engines & High-Perf Analytics** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,graphql&theme=dark" alt="Databases" /></a> |
+| **Frontend & UI Platforms** | <a href="#"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,svg&theme=dark" alt="Frontend" /></a> |
+| **Backend & Microservices** | <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend" /></a> |
+| **Cloud, DevOps & Tooling** | <a href="#"><img src="https://skillicons.dev/icons?i=docker,cloudflare,gcp,linux,git,githubactions,postman,neovim,vscode&theme=dark" alt="Infra & Tools" /></a> |
 
 </div>
-<div>
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Gaurav-Wankhede&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Wankhede&theme=tokyonight&hide_border=true" />
 
-</div>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Wankhede&theme=tokyonight&show_icons=true&hide_border=true&layout=donut&count_private=true" />
-<img src="https://github-contributor-stats.vercel.app/api?username=Gaurav-Wankhede&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+<details>
+<summary><b>[+] Expand Deep Architecture Capabilities & Specialized Toolbelt</b></summary>
+<br/>
+
+- **Systems & Core Engineering:** Rust 1.95+ (Tokio, Axum, Nom, Polars, DataFusion, Tantivy BM25, Linfa, Burn, Criterion, Proptest, Nextest), Memory Safety, Zero-Cost Abstractions, SIMD & Vectorization, WebAssembly.
+- **AI & Autonomous Agents:** Capability-Kernel Runtimes (OCap), Knowledge Graph memory banks (SurrealDB 3.x, Turso libSQL), HNSW vector search, LangChain, LlamaIndex, Ollama / Local SLMs, Google Gemini 2.0 / Flash, Claude 3.7 SDK, n8n orchestration.
+- **Deep Learning & Computer Vision:** PyTorch 2.x, TensorFlow 2.x, Keras, OpenCV, ResNet, InceptionResNetV2, MobileNetV2, spaCy, NLTK, HuggingFace Transformers.
+- **Data Engineering & BI:** Polars 1.x, Apache DataFusion, Pandas 2.x, NumPy, SciPy, scikit-learn, XGBoost, LightGBM, Power BI, MS SQL Server, Excel automation, Amazon web scraping pipelines.
+- **Mathematical DSP & Audio:** Procedural trigonometric synthesis, HRTF spatialization, Dolby Atmos 7.1.4 panning matrix, 2.5D Vector ray-tracing.
+- **Modern Full-Stack & UI:** Dioxus 0.7, Next.js 15, React 19, React Native, Expo, Tailwind CSS v4, ShadCN UI, Redux Toolkit, Zustand, Streamlit, Gradio, Drizzle ORM, Prisma.
+- **Infrastructure & Toolbelt:** Docker, Cloudflare Workers & Pages, Google Cloud Platform, Vercel, Linux Kernel, Rust Toolbelt (`rg`, `fd`, `bat`, `difft`, `ast-grep`), Neovim, Postman.
+
+</details>
+
+---
+
+### [//] PERFORMANCE TELEMETRY & GITHUB METRICS
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-Wankhede&theme=tokyonight" alt="Gaurav Profile Summary" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav-Wankhede&theme=tokyonight" alt="Top Languages Summary" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Gaurav-Wankhede&theme=tokyonight&hide_border=true&background=0b0f19&stroke=6366f1&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### [//] CONTRIBUTION GRID ANIMATION
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Gaurav-Wankhede&theme=monokai&row=1&column=8)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav-Wankhede/Gaurav-Wankhede/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav-Wankhede/Gaurav-Wankhede/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Gaurav-Wankhede/Gaurav-Wankhede/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
+  </picture>
+</div>
 
 ---
 
-### 📈 Contributions
+### [//] KNOWLEDGE DISTRIBUTION & MEDIA ECOSYSTEM
 
-![Snake animation](https://github.com/Digitl-Alchemyst/Digitl-Alchemyst/blob/output/github-contribution-grid-snake-dark.svg)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=youtube" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.youtube.com/@GauravWankhede-TECHVERSE">TECHVERSE (YouTube)</a></b>
+      </h4>
+      <p>Engineering deep dives into high-performance Rust, custom network protocols (GNAP, Tokio Topcoat), agentic harness architectures, and modern systems programming.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">
+        <img src="https://skillicons.dev/icons?i=github" width="18" height="18" valign="middle"/>
+        <b><a href="https://www.gauravwankhede.com/projects/bookverse">Bookverse Knowledge Base</a></b>
+      </h4>
+      <p>Curated repository of visual mental models, cognitive defense frameworks, and decision trees extracted from foundational engineering and systems literature.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎵 Vibing to
+<!-- FOOTER -->
+<div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/06OuLrsfhiRvNpLoenfRtE)
+<p align="center">
+  <a href="https://www.gauravwankhede.com/"><img src="https://img.shields.io/badge/Website-gauravwankhede.com-0f172a?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a>
+  <a href="https://www.gauravwankhede.com/Ask-Gaurav"><img src="https://img.shields.io/badge/Ask_AI-Gaurav-0f172a?style=flat-square&logo=openai&logoColor=10b981" alt="Ask AI Gaurav" /></a>
+  <a href="https://www.linkedin.com/in/wankhede-gaurav/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav_Wankhede-0f172a?style=flat-square&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
+  <a href="https://www.gauravwankhede.com/contact"><img src="https://img.shields.io/badge/Collaborate-Get_In_Touch-0f172a?style=flat-square&logo=mailgun&logoColor=f43f5e" alt="Contact" /></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,30:1e1b4b,70:111827,100:0b0f19&height=120&section=footer&stroke=6366f1&strokeWidth=1.5">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,30:1e1b4b,70:111827,100:0b0f19&height=120&section=footer&stroke=6366f1&strokeWidth=1.5" alt="Footer Banner" width="100%">
+</picture>
+
+</div>
