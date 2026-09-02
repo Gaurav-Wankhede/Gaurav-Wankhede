@@ -1,6 +1,6 @@
 <!-- ========================================================================= -->
 <!-- GAURAV WANKHEDE — HIGH-PERFORMANCE GITHUB PROFILE LANDING PAGE             -->
-<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • UNIFORM ICON CONTAINERS   -->
+<!-- CLAUDE CODE STYLE ASCII (STACKED) • ZERO EMOJIS • RUST FRAMEWORKS & HUD    -->
 <!-- ========================================================================= -->
 
 <div align="center">
@@ -68,7 +68,7 @@ impl<'a> Default for Engineer<'a> {
             role: "Founder & AI Systems Architect",
             flagship: "Kavach (Self-Improving Harness)",
             core_stack: &[
-                "Rust 1.95+ (Tokio/Axum)",
+                "Rust 1.95+ (Tokio/Axum/Actix)",
                 "Python 3.13+",
                 "TypeScript 5+",
                 "SurrealDB 3.x",
@@ -85,7 +85,7 @@ impl<'a> Default for Engineer<'a> {
 }
 ```
 
-> **Executive Summary:** Systems engineer and AI founder specializing in **self-healing development harnesses**, **capability-kernel agent runtimes**, **embedded search/database architectures**, **mathematical DSP engines**, and **full-stack enterprise AI platforms** across Rust (Tokio/Axum), TypeScript, and Python.
+> **Executive Summary:** Systems engineer and AI founder specializing in **self-healing development harnesses**, **capability-kernel agent runtimes**, **embedded search/database architectures**, **mathematical DSP engines**, and **full-stack enterprise AI platforms** across Rust (Tokio/Axum/Actix), TypeScript, and Python.
 
 ---
 
@@ -265,13 +265,14 @@ impl<'a> Default for Engineer<'a> {
 
 <div align="center">
 
-| Domain | Technologies & Systems (Uniform 40x40 Containers • Click for Docs) |
+| Domain | Technologies, Frameworks & Runtimes (Click for Official Documentation) |
 | :--- | :--- |
 | **Core Systems & Languages** | <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /></a> <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /></a> <a href="https://webassembly.org/"><img src="https://skillicons.dev/icons?i=wasm" width="40" height="40" alt="WebAssembly" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" /></a> |
+| **Rust Frameworks & Engines** | <a href="https://tokio.rs/"><img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=tokio&logoColor=white" alt="Tokio" /></a> <a href="https://github.com/tokio-rs/axum"><img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" alt="Axum" /></a> <a href="https://actix.rs/"><img src="https://img.shields.io/badge/Actix_Web-000000?style=flat-square&logo=rust&logoColor=white" alt="Actix Web" /></a> <a href="https://dioxuslabs.com/"><img src="https://img.shields.io/badge/Dioxus_0.7-000000?style=flat-square&logo=rust&logoColor=00E599" alt="Dioxus" /></a> <a href="https://pola.rs/"><img src="https://img.shields.io/badge/Polars_1.x-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars" /></a> <a href="https://datafusion.apache.org/"><img src="https://img.shields.io/badge/Apache_DataFusion-0284C7?style=flat-square&logo=apache&logoColor=white" alt="DataFusion" /></a> <a href="https://burn.dev/"><img src="https://img.shields.io/badge/Burn_ML-10B981?style=flat-square&logo=rust&logoColor=white" alt="Burn ML" /></a> <a href="https://surrealdb.com/"><img src="https://img.shields.io/badge/SurrealDB_3.x-FF00A0?style=flat-square&logo=surrealdb&logoColor=white" alt="SurrealDB" /></a> <a href="https://turso.tech/"><img src="https://img.shields.io/badge/Turso_libSQL-00E599?style=flat-square&logo=turso&logoColor=white" alt="Turso" /></a> |
 | **Generative AI, Agents & Vision** | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a> <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a> <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40" alt="Scikit-Learn" /></a> <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" /></a> |
 | **Data Engines & High-Perf Analytics** | <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /></a> <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /></a> <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a> <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /></a> <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /></a> |
 | **Frontend & UI Platforms** | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/SVG"><img src="https://skillicons.dev/icons?i=svg" width="40" height="40" alt="SVG" /></a> |
-| **Backend & Microservices** | <a href="https://tokio.rs/"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Tokio / Rust" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a> |
+| **Backend & Microservices** | <a href="https://tokio.rs/"><img src="https://img.shields.io/badge/Tokio_Async-000000?style=flat-square&logo=tokio&logoColor=white" alt="Tokio" /></a> <a href="https://github.com/tokio-rs/axum"><img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" alt="Axum" /></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a> |
 | **Cloud, DevOps & Tooling** | <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a> <a href="https://workers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="Cloudflare" /></a> <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="Google Cloud" /></a> <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a> <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" /></a> <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /></a> <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a> |
 
 </div>
@@ -280,7 +281,7 @@ impl<'a> Default for Engineer<'a> {
 <summary><b>[+] Expand Deep Architecture Capabilities & Specialized Toolbelt</b></summary>
 <br/>
 
-- **Systems & Backend Frameworks:** Rust 1.95+ (Tokio async runtime, Axum, Nom, Polars, DataFusion, Tantivy BM25, Linfa, Burn, Criterion, Proptest, Nextest), Memory Safety, Zero-Cost Abstractions, SIMD & Vectorization, WebAssembly.
+- **Systems & Backend Frameworks:** Rust 1.95+ (Tokio async runtime, Axum, Actix-web, Dioxus 0.7, Nom, Polars 1.x, DataFusion, Tantivy BM25, Linfa, Burn ML, Criterion, Proptest, Nextest), Memory Safety, Zero-Cost Abstractions, SIMD & Vectorization, WebAssembly.
 - **AI & Autonomous Agents:** Capability-Kernel Runtimes (OCap), Knowledge Graph memory banks (SurrealDB 3.x, Turso libSQL), HNSW vector search, LangChain, LlamaIndex, Ollama / Local SLMs, Google Gemini 2.0 / Flash, Claude 3.7 SDK, n8n orchestration.
 - **Deep Learning & Computer Vision:** PyTorch 2.x, TensorFlow 2.x, Keras, OpenCV, ResNet, InceptionResNetV2, MobileNetV2, spaCy, NLTK, HuggingFace Transformers.
 - **Data Engineering & BI:** Polars 1.x, Apache DataFusion, Pandas 2.x, NumPy, SciPy, scikit-learn, XGBoost, LightGBM, Power BI, MS SQL Server, Excel automation, Amazon web scraping pipelines.
