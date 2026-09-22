@@ -41,7 +41,7 @@
   <a href="https://www.youtube.com/@GauravWankhede-TECHVERSE"><img src="https://img.shields.io/badge/YOUTUBE-TECHVERSE-0f172a?style=for-the-badge&logo=youtube&logoColor=ef4444&labelColor=020617" alt="TECHVERSE Channel" /></a>
   <a href="https://www.youtube.com/@BookVerse_channel"><img src="https://img.shields.io/badge/YOUTUBE-BOOKVERSE-0f172a?style=for-the-badge&logo=youtube&logoColor=f59e0b&labelColor=020617" alt="BOOKVERSE Channel" /></a>
   <a href="https://www.linkedin.com/in/wankhede-gaurav/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&labelColor=020617" alt="LinkedIn" /></a>
-  <a href="https://x.com/GTechverse16703"><img src="https://img.shields.io/badge/X-Follow-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617" alt="Twitter X" /></a>
+  <a href="https://x.com/GauravWankhedeX"><img src="https://img.shields.io/badge/X-Follow-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617" alt="Twitter X" /></a>
   <a href="https://discord.gg/fD94w8f"><img src="https://img.shields.io/badge/DISCORD-Community-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=020617" alt="Discord" /></a>
   <a href="https://www.gauravwankhede.com/contact"><img src="https://img.shields.io/badge/CONTACT-Get_In_Touch-0f172a?style=for-the-badge&logo=mailgun&logoColor=f43f5e&labelColor=020617" alt="Contact" /></a>
 </p>
