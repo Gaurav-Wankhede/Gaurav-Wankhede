@@ -26,6 +26,8 @@
   <img src="https://komarev.com/ghpvc/?username=Gaurav-Wankhede&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
 
+> **I help engineering teams ship autonomous AI agents without the token burn.** Rust systems engineer and founder of Kavach (fail-closed agent governance) and WebFind (live grounding engine). Author of *Context Slicing*, a free 134-page monograph on beating agentic context rot.
+
 <!-- DYNAMIC TYPING ANIMATION SVG -->
 <a href="https://www.gauravwankhede.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Architecting+Self-Improving+AI+Coding+Harnesses;Building+High-Performance+Local-First+Engines+in+Rust;Developing+Capability-Secured+Agent+Runtimes;Procedural+3D+Spatial+Audio+%26+Mathematical+DSP;Full-Stack+Enterprise+AI,+RAG-RBAC+%26+Data+Engines;Bridging+Next-Gen+Technology+and+Public+Governance" alt="Dynamic Role Banner" />
@@ -86,6 +88,22 @@ impl<'a> Default for Engineer<'a> {
 ```
 
 > **Executive Summary:** Systems engineer and AI founder specializing in **self-healing development harnesses**, **capability-kernel agent runtimes**, **embedded search/database architectures**, **mathematical DSP engines**, and **full-stack enterprise AI platforms** across Rust (Tokio/Axum/Actix), TypeScript, and Python.
+
+<details>
+<summary><b>What does Gaurav Wankhede build?</b></summary>
+
+**Q: Who is Gaurav Wankhede?**
+A: Gaurav Wankhede is a Rust systems engineer and founder working on autonomous AI agent infrastructure. He maintains Kavach (fail-closed governance for AI coding agents), WebFind (self-hosted live search engine for agents), and authored Context Slicing, a free 134-page monograph on eliminating agentic context rot.
+
+**Q: What is Kavach?**
+A: Kavach is an open-source fail-closed runtime governance kernel for autonomous AI coding agents, enforcing lifecycle gates, a mistake ledger, and 3-witness verification. Repository: [Gaurav-Wankhede/kavach-rs](https://github.com/Gaurav-Wankhede/kavach-rs).
+
+**Q: What is WebFind?**
+A: WebFind is a self-hosted live web search, crawling, and indexing engine in Rust that gives AI agents verified real-time sources via RRF fusion into a Turso graph store. Repository: [Gaurav-Wankhede/webfind](https://github.com/Gaurav-Wankhede/webfind).
+
+**Q: What is Context Slicing?**
+A: Context Slicing is a free 134-page systems engineering monograph by Gaurav Wankhede on curing agentic context rot with AST parsing, the RTK CLI proxy, and fail-closed governance. Repository: [Gaurav-Wankhede/Context-Slicing](https://github.com/Gaurav-Wankhede/Context-Slicing).
+</details>
 
 ---
 
@@ -313,18 +331,6 @@ impl<'a> Default for Engineer<'a> {
   </tr>
 </table>
 
-</div>
-
----
-
-### [//] CONTRIBUTION GRID ANIMATION
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Digitl-Alchemyst/Digitl-Alchemyst/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Digitl-Alchemyst/Digitl-Alchemyst/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Digitl-Alchemyst/Digitl-Alchemyst/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
-  </picture>
 </div>
 
 ---
